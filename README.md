@@ -6,3 +6,6 @@ Objective: Build a predictive model to differentiate between Rocks and Mines usi
 Model: Logistic Regression
 Data: SONAR dataset containing features extracted from SONAR scans
 Environment: Google Colaboratory
+
+# for more visit: 
+https://colab.research.google.com/drive/1wfxwLIsvhE9WOtVX3r1LjzthWDrbNkKE?usp=drive_link
